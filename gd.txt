@@ -14,7 +14,7 @@
 广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
 岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.120:11111
 广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
-广州台,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111
+广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111
 广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
